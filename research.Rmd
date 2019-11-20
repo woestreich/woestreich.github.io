@@ -19,7 +19,7 @@ p.caption {
 
 I am co-advised by [Dr. Jeremy Goldbogen](https://goldbogen.stanford.edu/) and [Dr. Larry Crowder](https://crowderlab.stanford.edu/) and collaborate closely with researchers at the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/technology/solving-challenges/persistent-presence/mars-hydrophone/) and [Cascadia Research Collective](http://www.cascadiaresearch.org/) for my PhD thesis research. I focus primarily on tracking blue whale behavior across individual and population scales, and understanding how oceanographic variability in the California Current influences these behaviors. To explore these connections between behavior and ecosystem, I utilize both continuously recorded acoustic data from Monterey Bay and tag-based methods which provide behavioral and social context to blue whale call production. I also explore the potential of using real-time data sources and animal tracking tools to manage multiple uses of marine ecosystems dynamically in space and time. 
 
-![Image: Tagged blue whale in Monterey Bay, CA. I utilize these biologging devices to determine the behavioral and social context of call patterns. This context enriches our understanding of population-level call patterns detected via application of machine learning and energy detection techniques to continuous data from MBARI's [MARS hydrophone](https://www.mbari.org/at-sea/cabled-observatory/mars-science-experiments/mars-hydrophone-data/).\label{figurelabel}](images/tag2.png)
+![Image: Tagged blue whale in Monterey Bay, CA. We utilize these biologging devices to determine the behavioral and social context of call patterns. This context enriches our understanding of population-level call patterns detected via application of machine learning and energy detection techniques to continuous data from MBARI's [MARS hydrophone](https://www.mbari.org/at-sea/cabled-observatory/mars-science-experiments/mars-hydrophone-data/).\label{figurelabel}](images/tag2.png)
 
 
 
@@ -28,11 +28,17 @@ My interests in connecting environmental variability, animal behavior, and human
 * __A comparative analysis of dynamic management in marine and terrestrial systems__ (Project lead):
     * This project aims to compare the scales of forecasting and implementation of spatially and temporally dynamic resource management and conservation programs (often termed "Dynamic Ocean Management" in marine systems) across marine and terrestrial systems. A manuscript reporting our findings is currently under review.
 
+#\newline 
+
 * __Improving and expanding biodiversity surveys for the [National Ecological Observatory Network (NEON)](https://www.neonscience.org/) via machine learning__ (Project collaborator; led by Dr. Justin Kitzes)
     * This terrestrial ecosystem-focused project aims to improve the capabilities of NEON via new instrumentation and methods. I contribute primarily to improvements in passive acoustic monitoring.
 
+#\newline 
+
 * __Soundscapes in Cordell Bank National Marine Sanctuary__ (Project collaborator; led by Samara Haver)
     * This collaborative project with researchers from Oregon State University and NOAA aims to characterize the soundscape of Cordell Bank National Marine Sanctuary. I primarily contribute analytical methods for quantifying baleen whale contributions to this soundscape, and interpretation of variability in their acoustic presence.
+
+#\newline 
 
 * __Moving beyond adaptive capacity to understand drivers observable small-scale fishing community responses to environmental change__ (Project co-lead with members of the Crowder Lab)
     * This primarily social science project aims to build upon adaptive capacity literature by documenting, comparing, and understanding observed responses of small-scale fishing communities around the globe to environmental change. Both a published book chapter and a manuscript in prep aim to communicate our findings.
@@ -44,6 +50,10 @@ Before my research at Stanford, I conducted a variety of research projects in bi
 
 * Quantification of mesoscale spatial variability and error of ocean color measurements from the MODIS/Aqua and SeaWiFS satellites.
 
+#\newline 
+
 * Refinement of our understanding of the effects of colored dissolved organic matter (CDOM) source on its quantification, and the ramifications for light attenuation modeling in coastal oceans.
+
+#\newline 
 
 * Development and application of a coral bleaching response index (BRI) for cross-comparison of bleaching records on disparate scales from around the globe.
