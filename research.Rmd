@@ -5,9 +5,9 @@ output: html_document
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/acoustics1.png" style="width:50%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/acoustics1.png" style="width:40%; border:1px solid; margin-right: 20px" align="left">
 
-#### I am co-advised by [Dr. Jeremy Goldbogen](https://goldbogen.stanford.edu/) and [Dr. Larry Crowder](https://crowderlab.stanford.edu/) and collaborate closely with researchers at the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/technology/solving-challenges/persistent-presence/mars-hydrophone/) for my PhD thesis research. In this research, I focus primarily on tracking blue whale behavior across individual and population scales, and understanding how oceanographic variability in the California Current influences these behaviors. To explore these connections between behavior and ecosystem, I utilize both continuously recorded acoustic data from Monterey Bay and tag-based methods which provide behavioral and social context to blue whale call production. I also explore the potential of using real-time data sources and animal tracking tools (such as the near real-time acoustic detection tools I am building for my PhD research) to manage multiple uses of marine ecosystems dynamically in space and time. 
+I am co-advised by [Dr. Jeremy Goldbogen](https://goldbogen.stanford.edu/) and [Dr. Larry Crowder](https://crowderlab.stanford.edu/) and collaborate closely with researchers at the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/technology/solving-challenges/persistent-presence/mars-hydrophone/) for my PhD thesis research. I focus primarily on tracking blue whale behavior across individual and population scales, and understanding how oceanographic variability in the California Current influences these behaviors. To explore these connections between behavior and ecosystem, I utilize both continuously recorded acoustic data from Monterey Bay and tag-based methods which provide behavioral and social context to blue whale call production. I also explore the potential of using real-time data sources and animal tracking tools to manage multiple uses of marine ecosystems dynamically in space and time. 
 
 <img src="images/tag2.png" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 
