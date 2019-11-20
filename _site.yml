@@ -1,0 +1,19 @@
+name: "William K. Oestreich"
+output_dir: "."
+navbar:
+  title: "William K. Oestreich"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Outreach and teaching"
+      href: outreach.html
+    - text: "Photos"
+      href: photos.html
+    - text: "CV"
+      href: cv.html
+output:
+  html_document:
+    theme: darkly
+    css: 'styles.css'

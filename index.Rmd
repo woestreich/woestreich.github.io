@@ -1,0 +1,11 @@
+---
+title: "Home"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/Will.jpg" style="width:30%; border:10px solid; margin-right: 20px" align="left">
+
+Hello, Website! Welcome to the world.
+
+<img src="images/bm_fluke.jpg" style="width:100%; border:10px solid; margin-right: 20px" align="right">
