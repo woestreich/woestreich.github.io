@@ -3,16 +3,44 @@ title: "Photos"
 output: html_document
 ---
 
+Some photographs of critters from the field and wandering around California
+
+#\newline 
+
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/kite.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/kite.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A white-tailed kite (*Elanus leucurus*) hunts at dusk over an open field in Stanford, CA.
 
-<img src="images/gopher.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
+#\newline  
 
-<img src="images/tern.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/warbler.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+An adventurous Townsend's warbler (*Setophaga townsendi*) joins the team for some blue whale tagging offshore in Monterey Bay, CA.
+
+#\newline 
+
+<img src="images/gopher.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A Botta's pocket gopher (*Thomomys bottae*) emerges from its burrow in Stanford, CA, wary of potential predators.
+
+#\newline 
+
+<img src="images/tern.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+An elegant tern (*Thalasseus elegans*) slices through the air offshore of northern Big Sur, CA.
+
+#\newline 
+
+<img src="images/rhino2.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A white rhinoceros (*Ceratotherium simum*) grazes just before sundown in Namibia.
+
+#\newline 
+
+<img src="images/gull.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A gull (likely the laughing gull, *Leucophaeus atricilla*) casually flies by the tag boat off the Pacific coast of Costa Rica.
+
+#\newline 
+
+<img src="images/albatross.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A black-footed albatross (*Phoebastria nigripes*) glides over the rolling swell of Monterey Bay, CA.
 
 
-<img src="images/gull.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
-
-<img src="images/CR.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
 
