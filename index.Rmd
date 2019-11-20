@@ -4,8 +4,8 @@ title: "Home"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/Will.jpg" style="width:30%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/Will.jpg" style="width:30%; border:1px solid; margin-right: 20px" align="left">
 
 Hello, Website! Welcome to the world.
 
-<img src="images/bm_fluke.jpg" style="width:100%; border:10px solid; margin-right: 20px" align="right">
+<img src="images/bm_fluke_2.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
