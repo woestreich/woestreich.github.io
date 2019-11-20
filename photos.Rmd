@@ -3,18 +3,16 @@ title: "Photos"
 output: html_document
 ---
 
-Photos test
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/gopher.jpg" style="width:45%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/kite.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
 
-<img src="images/tern.jpg" style="width:45%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/gopher.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
 
-<img src="images/kite.jpg" style="width:45%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/tern.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
 
-<img src="images/gull.jpg" style="width:45%; border:1px solid; margin-right: 20px" align="left">
 
-<img src="images/Chelonia_Fregata.tiff" style="width:45%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/gull.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
 
-<img src="images/CR.jpg" style="width:45%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/CR.jpg" style="width:90%; border:1px solid; margin-right: 20px" align="left">
 
-<img src="images/albatross.jpg" style="width:45%; border:1px solid; margin-right: 20px" align="left">
