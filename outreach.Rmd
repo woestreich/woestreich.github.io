@@ -13,9 +13,9 @@ Outreach and education have been large components of my academic career to date.
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/outreach1.jpg" style="width:47%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/outreach2.jpg" style="width:47%; border:1px solid; margin-right: 20px" align="left">
 
-<img src="images/outreach2.jpg" style="width:47%; border:1px solid; margin-right: 20px" align="right">
+<img src="images/museum.jpeg" style="width:47%; border:1px solid; margin-right: 20px" align="right">
 
 Images: (Left) "The sounds of Monterey Bay" exhibit at Hopkins Marine Station's Open House (2019). (Right) The same interactive exhibit at the Pacific Grove Museum of Natural History's "Science of Sound" public event. Image credits: Left - Safari Fang; Right - Elayne Azevado. Videos for this exhibit developed by Dr. John Ryan of MBARI.
 
