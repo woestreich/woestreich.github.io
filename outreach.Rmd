@@ -4,3 +4,9 @@ output: html_document
 ---
 
 Outreach test
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/outreach1.jpg" style="width:45%; border:1px solid; margin-right: 20px" align="left">
+
+<img src="images/outreach2.jpg" style="width:45%; border:1px solid; margin-right: 20px" align="right">
