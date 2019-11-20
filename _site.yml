@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "William K. Oestreich"
   left:
-    - text: "Home"
-      href: index.html
+#    - text: "Home"
+#      href: index.html
     - text: "Research"
       href: research.html
     - text: "Outreach and teaching"
