@@ -8,7 +8,7 @@ title: #"Home"
 
 #\newline 
 
-Our ability to effectively manage marine ecosystems and design conservation approaches for migratory species relies on an understanding of the connections between animal behavior and ecoystem dynamics. However, our capacity to observe animal behavior and ecosystem dynamics -and especially our understanding of the connections between- remain limited, particularly in marine ecosystems. My research explores the intersection of oceanography, behavioral ecology, and human resource use to address these gaps. 
+Our ability to effectively manage marine ecosystems and design conservation approaches for migratory species relies on an understanding of the connections between animal behavior and ecoystem dynamics. However, our capacity to observe animal behavior and ecosystem dynamics -and especially our understanding of the connections between- remain limited, particularly in marine ecosystems. In my research, I explore the intersection of oceanography, behavioral ecology, and human resource use to address these gaps. 
 
 #\newline 
 
