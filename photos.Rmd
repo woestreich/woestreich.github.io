@@ -19,13 +19,19 @@ An adventurous Townsend's warbler (*Setophaga townsendi*) joins the team for som
 
 #\newline 
 
+<img src="images/weddell.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A weddell seal (*Leptonychotes weddellii*) naps on an iceberg near Port Charcot, Western Antarctic Peninsula.
+
+#\newline 
+
 <img src="images/gopher.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 A Botta's pocket gopher (*Thomomys bottae*) emerges from its burrow in Stanford, CA, wary of potential predators.
 
 #\newline 
 
-<img src="images/tern.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-An elegant tern (*Thalasseus elegans*) slices through the air offshore of northern Big Sur, CA.
+<img src="images/gentoo.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A gentoo penguin (*Pygoscelis papua*) surfaces for a breath along the Western Antarctic Peninsula.
+
 
 #\newline 
 
@@ -34,8 +40,8 @@ A white rhinoceros (*Ceratotherium simum*) grazes just before sundown in Namibia
 
 #\newline 
 
-<img src="images/gull.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A gull (likely the laughing gull, *Leucophaeus atricilla*) casually flies by the tag boat off the Pacific coast of Costa Rica.
+<img src="images/wilsons.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A Wilson's storm petrel (*Oceanites oceanicus*) navigates the dynamic habitat of an Antarctic Peninsula bay.
 
 #\newline 
 
