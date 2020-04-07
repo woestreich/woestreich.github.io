@@ -3,7 +3,7 @@ title: "CV"
 output: html_document
 ---
 
-My CV is available [here](Oestreich_CV_Dec2019_website.pdf).
+My CV is available [here](Oestreich_CV_Apr2020_website.pdf).
 
 See my [Google Scholar page](https://scholar.google.com/citations?user=QZnw81AAAAAJ&hl=en&authuser=1#d=gsc_md_iad&u=%2Fcitations%3Fview_op%3Dimport_lookup%26hl%3Den%26authuser%3D1%26imq%3DWilliam%2BK.%2BOestreich%26json%3D%26btnA%3D1) for a complete list of peer-reviewed publications.
 
