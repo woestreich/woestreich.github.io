@@ -9,6 +9,16 @@ Some photographs of critters from the field and wandering around California
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<img src="images/weddell.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A weddell seal (*Leptonychotes weddellii*) naps on an iceberg near Port Charcot, Western Antarctic Peninsula.
+
+#\newline 
+
+<img src="images/rufous.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A rufous hummingbird (*Selasphorus rufus*) spotted in the Del Monte Forest, CA.
+
+#\newline  
+
 <img src="images/kite.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 A white-tailed kite (*Elanus leucurus*) hunts at dusk over an open field in Stanford, CA.
 
@@ -16,11 +26,6 @@ A white-tailed kite (*Elanus leucurus*) hunts at dusk over an open field in Stan
 
 <img src="images/warbler.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 An adventurous Townsend's warbler (*Setophaga townsendi*) joins the team for some blue whale tagging offshore in Monterey Bay, CA.
-
-#\newline 
-
-<img src="images/weddell.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A weddell seal (*Leptonychotes weddellii*) naps on an iceberg near Port Charcot, Western Antarctic Peninsula.
 
 #\newline 
 
@@ -39,6 +44,11 @@ A gentoo penguin (*Pygoscelis papua*) surfaces for a breath along the Western An
 A white rhinoceros (*Ceratotherium simum*) grazes just before sundown in Namibia.
 
 #\newline 
+
+<img src="images/Chelonia_Fregata.tiff" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A magnificent frigatebird (*Fregata magnificens*) looks to score a meal of bait fish aggregated beneath a green turtle (*Chelonia mydas*) in the Eastern Tropical Pacific.
+
+#\newline  
 
 <img src="images/wilsons.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 A Wilson's storm petrel (*Oceanites oceanicus*) navigates the dynamic habitat of an Antarctic Peninsula bay.
