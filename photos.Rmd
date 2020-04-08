@@ -45,6 +45,11 @@ A white rhinoceros (*Ceratotherium simum*) grazes just before sundown in Namibia
 
 #\newline 
 
+<img src="images/Chelonia_Fregata.tiff" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A magnificent frigatebird (*Fregata magnificens*) looks to score a meal of bait fish aggregated beneath a green turtle (*Chelonia mydas*) in the Eastern Tropical Pacific.
+
+#\newline  
+
 <img src="images/wilsons.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 A Wilson's storm petrel (*Oceanites oceanicus*) navigates the dynamic habitat of an Antarctic Peninsula bay.
 
