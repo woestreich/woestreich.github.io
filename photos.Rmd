@@ -24,6 +24,11 @@ A white-tailed kite (*Elanus leucurus*) hunts at dusk over an open field in Stan
 
 #\newline  
 
+<img src="images/wave.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+Strong offshore winds creating formidable barrels on the Monterey Peninsula.
+
+#\newline  
+
 <img src="images/warbler.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 An adventurous yellow-rumped warbler (*Setophaga coronata*) joins the team for some blue whale tagging offshore in Monterey Bay, CA.
 
@@ -45,13 +50,13 @@ A white rhinoceros (*Ceratotherium simum*) grazes just before sundown in Namibia
 
 #\newline 
 
-<img src="images/Chelonia_Fregata.tiff" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A magnificent frigatebird (*Fregata magnificens*) looks to score a meal of bait fish aggregated beneath a green turtle (*Chelonia mydas*) in the Eastern Tropical Pacific.
+<img src="images/heron.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A great blue heron (*Ardea herodias*) grabs a meal on the outskirts of a golf course in Central California. Do these dramatically altered landscapes benefit predators (like the heron, or white-tailed kites) that ambush from above?
 
 #\newline  
 
-<img src="images/wilsons.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A Wilson's storm petrel (*Oceanites oceanicus*) navigates the dynamic habitat of an Antarctic Peninsula bay.
+<img src="images/wilsons2.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A Wilson's storm petrel (*Oceanites oceanicus*) dances across an Antarctic Peninsula bay.
 
 #\newline 
 
