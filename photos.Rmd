@@ -14,6 +14,11 @@ A weddell seal (*Leptonychotes weddellii*) naps on an iceberg near Port Charcot,
 
 #\newline 
 
+<img src="images/heron.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A great blue heron (*Ardea herodias*) grabs a meal on the outskirts of a golf course in Central California. Do these dramatically altered landscapes benefit predators (like the heron, or white-tailed kites) that ambush from above?
+
+#\newline 
+
 <img src="images/rufous.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 A rufous hummingbird (*Selasphorus rufus*) spotted in the Del Monte Forest, CA.
 
@@ -49,11 +54,6 @@ A gentoo penguin (*Pygoscelis papua*) surfaces for a breath along the Western An
 A white rhinoceros (*Ceratotherium simum*) grazes just before sundown in Namibia.
 
 #\newline 
-
-<img src="images/heron.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A great blue heron (*Ardea herodias*) grabs a meal on the outskirts of a golf course in Central California. Do these dramatically altered landscapes benefit predators (like the heron, or white-tailed kites) that ambush from above?
-
-#\newline  
 
 <img src="images/wilsons2.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 A Wilson's storm petrel (*Oceanites oceanicus*) dances across an Antarctic Peninsula bay.
