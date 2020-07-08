@@ -9,6 +9,8 @@ navbar:
       href: research.html
     - text: "Outreach and teaching"
       href: outreach.html
+    - text: "Publications"
+      href: publications.html
     - text: "Photos"
       href: photos.html
     - text: "CV"

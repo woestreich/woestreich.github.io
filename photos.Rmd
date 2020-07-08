@@ -55,11 +55,6 @@ A white rhinoceros (*Ceratotherium simum*) grazes just before sundown in Namibia
 
 #\newline 
 
-<img src="images/wilsons2.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A Wilson's storm petrel (*Oceanites oceanicus*) dances across an Antarctic Peninsula bay.
-
-#\newline 
-
 <img src="images/albatross.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 A black-footed albatross (*Phoebastria nigripes*) glides over the rolling swell of Monterey Bay, CA.
 

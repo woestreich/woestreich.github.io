@@ -1,0 +1,59 @@
+---
+title: "Publications"
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<ol reversed>
+  <li>**Oestreich, WK**, Chapman, MS, and Crowder, LB (*In Press*): A comparative analysis of dynamic management in marine and terrestrial systems. *Frontiers in Ecology and the Environment*. [PDF available soon]</li>
+  
+  \newline 
+  
+  <li>**Oestreich, WK**, Frawley, TH, Mansfield, EJ, Green, KM, Green, SJ, Naggea, J, Selgrath, JC, Swanson, SS, Urteaga, J, White, TD, and Crowder, LB, 2019: The impact of environmental change on small-scale fishing communities: Moving beyond adaptive capacity to community response in Cisneros-Montemayor, AM, Cheung, W, and Ota, Y (ed). *Predicting future oceans: Sustainability of social-ecological systems under climate change*. Elsevier. New York, NY. [PDF](Oestreich2019.pdf)</li>
+  
+  \newline 
+  
+  <li>Glover, DM, Doney, SC, **Oestreich, WK**, and Tullo, A, 2018: Geostatistical analysis of mesoscale spatial variability and error in SeaWiFS and MODIS/Aqua global ocean color data. *Journal of Geophysical Research: Oceans* 123, 22-39. [PDF](Glover2018.pdf)</li>
+  
+  \newline 
+  
+  <li>Swain, TD, Vega-Perkins, JB, **Oestreich, WK**, Triebold, C, DuBois, E, Henss, J, Baird, A, Siple, M, Backman, V, and Marcelino, L, 2016: Coral Bleaching Response Index: a new tool to standardize and compare susceptibility to thermal bleaching. *Global Change Biology* 22, 2475-2488. [PDF](Swain2016.pdf)</li> 
+  
+  \newline 
+  
+  <li>**Oestreich, WK**, Ganju, NK, Pohlman, JW, and Suttles, SE, 2016: Colored dissolved organic matter in eutrophic estuaries: relationships between carbon sources and light attenuation. *Biogeosciences* 13, 583-595. [PDF](Oestreich2016.pdf)</li>
+
+  \newline 
+
+<img src="images/wilsons3.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+
+  \newline
+
+**In review, submission, or preparation:**
+
+  \newline 
+  
+**Oestreich, WK**, Fahlbusch, JA, Cade, DE, Calambokidis, J, Margolina, T, Joseph, J, Friedlaender, AS, McKenna, M, Stimpert, AK, Southall, BL, Goldbogen, JA, and Ryan, JP: Animal-borne metrics enable acoustic detection of blue whale migration. (*In review at Current Biology*).
+  
+  \newline 
+  
+Haver, SM, et al. including **Oestreich, WK**: Seasonal trends and primary contributors to the low frequency soundscape of the Cordell Bank National Marine Sanctuary. (*In review at Journal of the Acoustical Society of America*).
+  
+  \newline 
+  
+Green, KM, et al. including **Oestreich, WK**: How adaptive capacity shapes the Adapt, React, Cope Response to climate impacts: insights from small-scale fisheries. (*In review at Climatic Change*).
+
+Cade, DE, et al. including **Oestreich, WK**: The spatial distribution of prey within high-quality prey patches drives the formation of super groups of rorqual whales (*In submission at Ecology Letters*).
+
+  \newline 
+  
+Cade, DE, et al. including **Oestreich, WK**: The temporal persistence of patchy prey determines competition or cooperation in rorqual whale social foraging networks (*In submission at Ecology Letters*).
+
+  \newline 
+  
+Chapman, MS, **Oestreich, WK**, et al.: Considering diverse values in protecting Areas Beyond National Jurisdiction. (*In prep*).
+
+  \newline 
+  
+Kitzes, J et al. including **Oestreich, WK**: Expanding the National Ecological Observatory Network (NEON) biodiversity surveys with new instrumentation and machine learning models. (*In prep*).
