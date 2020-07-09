@@ -10,13 +10,13 @@ title: #"Home"
 
 Migratory species present unique challenges and opportunities for both ecologists and resource managers. This is particularly true for oceanic predators migrating on enormous scales through highly-dynamic habitats. In my research, I explore many elements of such migratory behavior:
 
-  -Environmental and oceanographic influences on migration 
+  \- Environmental and oceanographic processes influencing migration 
 
-  -The role of social information and collective behavior in migration 
+  \- The role of social information and collective behavior in migration 
 
-  -Tools for observing migratory behavior across scales  
+  \- Tools for observing migratory behavior across scales  
 
-  -Dynamic resource management for protection of migratory species and human activities
+  \- Dynamic resource management for protection of migratory species and human activities
 
 #\newline 
 
