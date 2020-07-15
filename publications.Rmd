@@ -10,6 +10,10 @@ output: html_document
   
   \newline 
   
+  <li>Haver, SM, Rand, Z, Hatch, LT, Lipski, D, Dziak, RP, Gedamke, J, Haxel, J, Heppell, SA, Jahncke, J, McKenna, MF, Mellinger, DK, **Oestreich, WK**, Roche, L, Ryan, JP, and Van Parijs, SM (*In Press*): Seasonal trends and primary contributors to the low frequency soundscape of the Cordell Bank National Marine Sanctuary. (*Journal of the Acoustical Society of America*). [PDF available soon]</li>
+   
+  \newline  
+  
   <li>**Oestreich, WK**, Frawley, TH, Mansfield, EJ, Green, KM, Green, SJ, Naggea, J, Selgrath, JC, Swanson, SS, Urteaga, J, White, TD, and Crowder, LB, 2019: The impact of environmental change on small-scale fishing communities: Moving beyond adaptive capacity to community response in Cisneros-Montemayor, AM, Cheung, W, and Ota, Y (ed). *Predicting future oceans: Sustainability of social-ecological systems under climate change*. Elsevier. New York, NY. [PDF](Oestreich2019.pdf)</li>
   
   \newline 
@@ -38,11 +42,9 @@ output: html_document
   
   \newline 
   
-Haver, SM, et al. including **Oestreich, WK**: Seasonal trends and primary contributors to the low frequency soundscape of the Cordell Bank National Marine Sanctuary. (*In review at Journal of the Acoustical Society of America*).
-  
-  \newline 
-  
 Green, KM, et al. including **Oestreich, WK**: How adaptive capacity shapes the Adapt, React, Cope Response to climate impacts: insights from small-scale fisheries. (*In review at Climatic Change*).
+
+  \newline 
 
 Cade, DE, et al. including **Oestreich, WK**: The spatial distribution of prey within high-quality prey patches drives the formation of super groups of rorqual whales (*In submission at Ecology Letters*).
 
