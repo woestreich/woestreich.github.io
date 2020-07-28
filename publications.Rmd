@@ -6,13 +6,14 @@ output: html_document
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <ol reversed>
-  <li>**Oestreich, WK**, Chapman, MS, and Crowder, LB (*In Press*): A comparative analysis of dynamic management in marine and terrestrial systems. *Frontiers in Ecology and the Environment*. [PDF available soon]</li>
-  
-  \newline 
-  
+
   <li>Haver, SM, Rand, Z, Hatch, LT, Lipski, D, Dziak, RP, Gedamke, J, Haxel, J, Heppell, SA, Jahncke, J, McKenna, MF, Mellinger, DK, **Oestreich, WK**, Roche, L, Ryan, JP, and Van Parijs, SM (*In Press*): Seasonal trends and primary contributors to the low frequency soundscape of the Cordell Bank National Marine Sanctuary. (*Journal of the Acoustical Society of America*). [PDF available soon]</li>
    
   \newline  
+  
+  <li>**Oestreich, WK**, Chapman, MS, and Crowder, LB, 2020: A comparative analysis of dynamic management in marine and terrestrial systems. *Frontiers in Ecology and the Environment*. [PDF](Oestreich2020.pdf)</li>
+  
+  \newline 
   
   <li>**Oestreich, WK**, Frawley, TH, Mansfield, EJ, Green, KM, Green, SJ, Naggea, J, Selgrath, JC, Swanson, SS, Urteaga, J, White, TD, and Crowder, LB, 2019: The impact of environmental change on small-scale fishing communities: Moving beyond adaptive capacity to community response in Cisneros-Montemayor, AM, Cheung, W, and Ota, Y (ed). *Predicting future oceans: Sustainability of social-ecological systems under climate change*. Elsevier. New York, NY. [PDF](Oestreich2019.pdf)</li>
   
