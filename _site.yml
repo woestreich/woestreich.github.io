@@ -13,6 +13,8 @@ navbar:
       href: publications.html
     - text: "Photos"
       href: photos.html
+    - text: "Recordings"
+      href: recordings.html
     - text: "CV"
       href: cv.html
 output:

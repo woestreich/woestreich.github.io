@@ -4,7 +4,7 @@ title: #"Home"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/Will3.jpg" style="width:30%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/Will_bat.jpg" style="width:40%; border:1px solid; margin-right: 20px" align="left">
 
 #\newline 
 
@@ -16,7 +16,7 @@ Migratory species present unique challenges and opportunities for both ecologist
 
   \- Tools for observing migratory behavior across scales  
 
-  \- Dynamic resource management for protection of migratory species and human activities
+  \- Equitable and dynamic habitat management for protection of migratory species and human activities
 
 #\newline 
 

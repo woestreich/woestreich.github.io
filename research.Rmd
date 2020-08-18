@@ -2,7 +2,7 @@
 title: "Research"
 output: html_document
 
-#<img src="images/acoustics1.png" style="width:40%; border:1px solid; margin-right: 20px" align="left">
+#<img src="images/bm_bp_song.png" style="width:40%; border:1px solid; margin-right: 20px" align="left">
 
 #<img src="images/tag2.png" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 
@@ -16,35 +16,32 @@ p.caption {
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-For my PhD thesis research, I explore the connections between individual and population-scale behavior (social cues) and between population-scale behavior and environment (oceanographic drivers). More specifically, I track blue whale foraging and migratory behavior to investigate these connections. I also interrogate the viability of combining such real-time information on animal behavior with information on human resource use to manage multiple uses of marine (and sometimes terrestrial!) ecosystems dynamically in space and time.
+For my PhD thesis research, I explore the connections between individual and population-level behavior (social cues) and between population-level behavior and environment (oceanographic drivers). I primarily study these processes in the NE Pacific blue whale population, which provides a unique study system for questions of social and collective behavior due to (1) their ability to communicate over vast distances; (2) their very low population density; (3) their highly-migratory and capital breeding life history; and (4) their extremely dynamic and expansive oceanographic habitat. 
 
-In this work, I am co-advised by [Dr. Jeremy Goldbogen](https://goldbogen.stanford.edu/) and [Dr. Larry Crowder](https://crowderlab.stanford.edu/) and collaborate closely with researchers at the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/technology/solving-challenges/persistent-presence/mars-hydrophone/) and [Cascadia Research Collective](http://www.cascadiaresearch.org/). 
+I also interrogate the viability of combining real-time information on animal behavior with information on human resource use to manage multiple uses of marine (and sometimes terrestrial!) ecosystems dynamically in space and time.
 
-![Image: Tagged blue whale in Monterey Bay, CA. We utilize these biologging devices to determine the behavioral and social context of call patterns. This context enriches our understanding of population-level call patterns detected via application of machine learning and energy detection techniques to continuous data from MBARI's [MARS hydrophone](https://www.mbari.org/at-sea/cabled-observatory/mars-science-experiments/mars-hydrophone-data/).\label{figurelabel}](images/tag2.png)
+In this work, I am co-advised by [Dr. Jeremy Goldbogen](https://goldbogen.stanford.edu/) and [Dr. Larry Crowder](https://crowderlab.stanford.edu/) and collaborate closely with researchers at the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/technology/solving-challenges/persistent-presence/mars-hydrophone/).
 
 
+![Image: Spectrogram of ~30 minutes of recording from MBARI's MARS hydrophone, showing overlapping blue and fin whale songs. \label{figurelabel}](images/bm_bp_song.png)
 
 My interests in connecting environmental variability, animal behavior, and human-wildlife interactions extend beyond the blue whale focus of my dissertation to a variety of relevant research projects and collaborations. Some of my other current projects include:
 
-* __A comparative analysis of dynamic management in marine and terrestrial systems__ (Project lead, manuscript in press):
-    * This project compares the scales of forecasting and implementation of spatially and temporally dynamic resource management and conservation programs (often termed "Dynamic Ocean Management" in marine systems) across marine and terrestrial systems. 
 
-#\newline 
-
-* __Value typologies in protecting Areas Beyond National Jurisdiction (ABNJ)__
+* __Environmental justice in protecting Areas Beyond National Jurisdiction (ABNJ)__
 (Project collaborator; led by Millie Chapman)
-    * This project focuses on a critical assessment of optimization schemes for protecting the high seas. Many science and advocacy organizations tout "30% protection of ABNJ by 2030", but whose values are reflected in the algorithmic approaches to selecting this 30%? We focus on injecting a variety of different "value typologies" into such conservation optimization schemes in order to accurately present tradeoffs in these conservation decisions.
+    * This project focuses on a critical assessment of optimization schemes for protecting the high seas. Many science and advocacy organizations tout "30% protection of ABNJ by 2030", but whose values are reflected in the algorithmic approaches to selecting this 30%? We focus on injecting concepts of environmental justice into protecting ABNJ in order to promote more equitable management of open sea habitats.
   
-#\newline
-
-* __Moving beyond adaptive capacity to understand drivers observable small-scale fishing community responses to environmental change__ (Project co-lead with members of the Crowder Lab)
-    * This primarily social science project aims to build upon adaptive capacity literature by documenting, comparing, and understanding observed responses of small-scale fishing communities around the globe to environmental change. Both a published book chapter and a manuscript in review communicate our findings.
-
 #\newline  
 
-* __Soundscapes in Cordell Bank National Marine Sanctuary__ (Project collaborator; led by Samara Haver)
-    * This collaborative project with researchers from Oregon State University and NOAA aims to characterize the soundscape of Cordell Bank National Marine Sanctuary. I primarily contribute analytical methods for quantifying baleen whale contributions to this soundscape, and interpretation of variability in their acoustic presence.
+* __Various projects on collective behavior, social cues, foraging, and migration in pelagic predator populations__ (Via collaboration with researchers such as Dr. Briana Abrahms, Dr. Steph Dodson, Dr. Elliott Hazen, Dr. Matt Savoca, Dr. Dave Cade, James Fahlbusch, Danelle Cline, and many more)
+    * Collaborative projects under this umbrella include combining bioacoustic, biologging, individual-based modeling, oceanographic, and machine learning tools to understand the social and collective behaviors of pelagic populations (often rorqual whales) in relation to variable environmental conditions.
     
+#\newline
+
+* __Moving beyond adaptive capacity to understand observable small-scale fishing community responses to environmental change__ (Project co-lead with members of the Crowder Lab)
+    * This primarily social science project aims to build upon adaptive capacity literature by documenting, comparing, and understanding observed responses of small-scale fishing communities around the globe to environmental change. Both a published book chapter and a manuscript in review communicate our findings.
+
 #\newline 
 
 * __Improving and expanding biodiversity surveys for the [National Ecological Observatory Network (NEON)](https://www.neonscience.org/) via machine learning__ (Project collaborator; led by Dr. Justin Kitzes)
@@ -54,8 +51,7 @@ My interests in connecting environmental variability, animal behavior, and human
 
 * And more on bioacoustics, migration, and natural resource management!
 
-![Image: Tag-derived spectrogram of NE Pacific blue whale song between surface breaths. \label{figurelabel}](images/acoustics2.png)
-
+![Image: Tagged blue whale in Monterey Bay, CA. We utilize these biologging devices to determine the behavioral and social context of call patterns. This context enriches our understanding of population-level call patterns detected via application of machine learning and energy detection techniques to continuous data from MBARI's [MARS hydrophone](https://www.mbari.org/at-sea/cabled-observatory/mars-science-experiments/mars-hydrophone-data/).\label{figurelabel}](images/tag2.png)
 
 Before my research at Stanford, I conducted a variety of research projects in biological oceanography and marine ecology as a BS/MS student (Northwestern) and research technician (WHOI):
 

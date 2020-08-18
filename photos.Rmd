@@ -3,19 +3,24 @@ title: "Photos"
 output: html_document
 ---
 
-Some photographs of critters from the field and wandering around California
-
-#\newline 
+Some photographs of critters, waves, and habitats
 
 <link rel="stylesheet" href="styles.css" type="text/css">
-
-<img src="images/weddell.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A weddell seal (*Leptonychotes weddellii*) naps on an iceberg near Port Charcot, Western Antarctic Peninsula.
 
 #\newline 
 
 <img src="images/heron.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 A great blue heron (*Ardea herodias*) grabs a meal on the outskirts of a golf course in Central California. Do these dramatically altered landscapes benefit predators (like the heron, or white-tailed kites) that ambush from above?
+
+#\newline 
+
+<img src="images/marmot.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A yellow-bellied marmot (*Marmota flaviventris*) out for a stroll in Sequoia National Park, CA.
+
+#\newline 
+
+<img src="images/weddell.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A weddell seal (*Leptonychotes weddellii*) naps on an iceberg near Port Charcot, Western Antarctic Peninsula.
 
 #\newline 
 
@@ -32,6 +37,11 @@ A white-tailed kite (*Elanus leucurus*) hunts at dusk over an open field in Stan
 <img src="images/wave.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 Strong offshore winds creating formidable waves on the Monterey Peninsula.
 
+#\newline 
+
+<img src="images/rhino2.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A white rhinoceros (*Ceratotherium simum*) grazes just before sundown in Namibia.
+
 #\newline  
 
 <img src="images/warbler.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
@@ -47,11 +57,6 @@ A Botta's pocket gopher (*Thomomys bottae*) emerges from its burrow in Stanford,
 <img src="images/gentoo.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 A gentoo penguin (*Pygoscelis papua*) surfaces for a breath along the Western Antarctic Peninsula.
 
-
-#\newline 
-
-<img src="images/rhino2.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A white rhinoceros (*Ceratotherium simum*) grazes just before sundown in Namibia.
 
 #\newline 
 
