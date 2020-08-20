@@ -37,6 +37,8 @@ output: html_document
 
 <img src="images/wilsons3.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 
+Image: A Wilson's storm petrel (*Oceanites oceanicus*) dances across a bay along the Western Antarctic Peninsula.
+
   \newline
 
 **In review, submission, or preparation:**
@@ -55,7 +57,7 @@ Cade, DE, et al. including **Oestreich, WK**: The temporal persistence of patchy
 
   \newline 
   
-Chapman, MS, **Oestreich, WK**, et al.: Considering diverse values in protecting Areas Beyond National Jurisdiction. (*In prep*).
+Chapman, MS, **Oestreich, WK**, et al.: Environmental justice in the protection of Areas Beyond National Jurisdiction. (*In prep*).
 
   \newline 
   
