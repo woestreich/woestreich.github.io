@@ -37,7 +37,7 @@ output: html_document
 
 <img src="images/wilsons3.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 
-Image: (*Oceanites oceanicus*) dances across a bay along the Western Antarctic Peninsula.
+Image: *Oceanites oceanicus* dances across a bay along the Western Antarctic Peninsula.
 
   \newline
 
