@@ -16,9 +16,9 @@ p.caption {
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-For my PhD thesis research, I explore the connections between individual and population-level behavior (social cues) and between population-level behavior and environment (oceanographic drivers). I primarily study these processes in the NE Pacific blue whale population, which provides a unique study system for questions of social and collective behavior due to (1) their ability to communicate over vast distances; (2) their very low population density; (3) their highly-migratory and capital breeding life history; and (4) their extremely dynamic and expansive oceanographic habitat. 
+For my PhD thesis research, I explore social and environmental drivers of foraging and migratory behavior in the NE Pacific blue whale population. In this work, I focus on linking patterns of individual and population-level behavior, and connecting these patterns to regional oceanography. Blue whales provide a unique study system for questions of the interaction between environment and social and collective behavior due to (1) their ability to communicate over vast distances; (2) their low population density; (3) their highly-migratory and capital breeding life history; and (4) their extremely dynamic and expansive oceanographic habitat. 
 
-I also interrogate the viability of combining real-time information on animal behavior with information on human resource use to manage multiple uses of marine (and sometimes terrestrial!) ecosystems dynamically in space and time.
+I also interrogate the equity and viability of modern approaches to managing ecosystems and natural resources. This work includes considering human dimensions and equity in marine resource management, and understanding the viability of managing ecosystems dynamically in space and time.
 
 In this work, I am co-advised by [Dr. Jeremy Goldbogen](https://goldbogen.stanford.edu/) and [Dr. Larry Crowder](https://crowderlab.stanford.edu/) and collaborate closely with researchers at the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/technology/solving-challenges/persistent-presence/mars-hydrophone/).
 
@@ -30,22 +30,14 @@ My interests in connecting environmental variability, animal behavior, and human
 
 * __Environmental justice in protecting Areas Beyond National Jurisdiction (ABNJ)__
 (Project collaborator; led by Millie Chapman)
-    * This project focuses on a critical assessment of optimization schemes for protecting the high seas. Many science and advocacy organizations tout "30% protection of ABNJ by 2030", but whose values are reflected in the algorithmic approaches to selecting this 30%? We focus on injecting concepts of environmental justice into protecting ABNJ in order to promote more equitable management of open sea habitats.
   
 #\newline  
 
 * __Various projects on collective behavior, social cues, foraging, and migration in pelagic predator populations__ (Via collaboration with researchers such as Dr. Briana Abrahms, Dr. Steph Dodson, Dr. Elliott Hazen, Dr. Matt Savoca, Dr. Dave Cade, James Fahlbusch, Danelle Cline, and many more)
-    * Collaborative projects under this umbrella include combining bioacoustic, biologging, individual-based modeling, oceanographic, and machine learning tools to understand the social and collective behaviors of pelagic populations (often rorqual whales) in relation to variable environmental conditions.
     
 #\newline
 
 * __Moving beyond adaptive capacity to understand observable small-scale fishing community responses to environmental change__ (Project co-lead with members of the Crowder Lab)
-    * This primarily social science project aims to build upon adaptive capacity literature by documenting, comparing, and understanding observed responses of small-scale fishing communities around the globe to environmental change. Both a published book chapter and a manuscript in review communicate our findings.
-
-#\newline 
-
-* __Improving and expanding biodiversity surveys for the [National Ecological Observatory Network (NEON)](https://www.neonscience.org/) via machine learning__ (Project collaborator; led by Dr. Justin Kitzes)
-    * This terrestrial ecosystem-focused project aims to improve the capabilities of NEON via new instrumentation and methods. I contribute primarily to improvements in passive acoustic monitoring.
 
 #\newline 
 

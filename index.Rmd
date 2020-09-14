@@ -8,7 +8,7 @@ title: #"Home"
 
 #\newline 
 
-Migratory species present unique challenges and opportunities for both ecologists and resource managers. This is particularly true for oceanic predators migrating on enormous scales through highly-dynamic habitats. In my research, I explore many elements of such migratory behavior:
+Migratory species present unique challenges and opportunities for both ecologists and resource managers. This is particularly true for oceanic predators migrating through expansive, highly-dynamic habitats. In my research, I explore many elements of such migratory behavior:
 
   \- Environmental and oceanographic processes influencing migration 
 

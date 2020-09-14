@@ -29,6 +29,10 @@ output: html_document
   
   <li>Swain, TD, Vega-Perkins, JB, **Oestreich, WK**, Triebold, C, DuBois, E, Henss, J, Baird, A, Siple, M, Backman, V, and Marcelino, L, 2016: Coral Bleaching Response Index: a new tool to standardize and compare susceptibility to thermal bleaching. *Global Change Biology* 22, 2475-2488. [PDF](Swain2016.pdf)</li> 
   
+  \newline
+  
+  **Press:** [Northwestern University](https://news.northwestern.edu/stories/2016/04/coral-reefs-bleaching-climate-change-big-data-science#sthash.4sURKboq.dpuf) | [WTTW Chicago](https://news.wttw.com/2016/05/04/local-scientists-institutions-join-global-fight-save-coral-reefs)
+    
   \newline 
   
   <li>**Oestreich, WK**, Ganju, NK, Pohlman, JW, and Suttles, SE, 2016: Colored dissolved organic matter in eutrophic estuaries: relationships between carbon sources and light attenuation. *Biogeosciences* 13, 583-595. [PDF](Oestreich2016.pdf)</li>
@@ -53,7 +57,7 @@ Cade, DE, et al. including **Oestreich, WK**: The spatial distribution of prey w
 
   \newline 
   
-Cade, DE, et al. including **Oestreich, WK**: The temporal persistence of patchy prey determines competition or cooperation in rorqual whale social foraging networks (*In submission at Behavioral Ecology*).
+Cade, DE, et al. including **Oestreich, WK**: Extensive, ephemeral prey patches promote reciprocal altruism in super-groups of rorqual whales (*Submitted to Behavioral Ecology*).
 
   \newline 
   
