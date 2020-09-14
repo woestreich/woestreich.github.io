@@ -16,11 +16,11 @@ p.caption {
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-For my PhD thesis research, I explore social and environmental drivers of foraging and migratory behavior in the NE Pacific blue whale population. In this work, I focus on linking patterns of individual and population-level behavior, and connecting these patterns to regional oceanography. Blue whales provide a unique study system for questions of the interaction between environment and social and collective behavior due to (1) their ability to communicate over vast distances; (2) their low population density; (3) their highly-migratory and capital breeding life history; and (4) their extremely dynamic and expansive oceanographic habitat. 
+In my PhD thesis research, I explore social and environmental drivers of foraging and migratory behavior in the NE Pacific blue whale population. In this work, I focus on linking patterns of individual and population-level behavior, and connecting these patterns to regional oceanography. Blue whales provide a unique study system for questions of the interaction between environment and social and collective behavior due to (1) their ability to communicate over vast distances; (2) their low population density; (3) their highly-migratory and capital breeding life history; and (4) their extremely dynamic and expansive oceanographic habitat. 
 
-I also interrogate the equity and viability of modern approaches to managing ecosystems and natural resources. This work includes considering human dimensions and equity in marine resource management, and understanding the viability of managing ecosystems dynamically in space and time.
+I also interrogate the equity and viability of modern approaches (e.g., optimization algorithms, dynamic management) to managing ecosystems and natural resources. This work includes considering human dimensions and equity in marine resource management, and understanding the viability of managing ecosystems dynamically in space and time.
 
-In this work, I am co-advised by [Dr. Jeremy Goldbogen](https://goldbogen.stanford.edu/) and [Dr. Larry Crowder](https://crowderlab.stanford.edu/) and collaborate closely with researchers at the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/technology/solving-challenges/persistent-presence/mars-hydrophone/).
+In this work, I am co-advised by [Dr. Larry Crowder](https://crowderlab.stanford.edu/) and [Dr. Jeremy Goldbogen](https://goldbogen.stanford.edu/), and collaborate closely with researchers at the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/technology/solving-challenges/persistent-presence/mars-hydrophone/).
 
 
 ![Image: Spectrogram of ~30 minutes of recording from MBARI's MARS hydrophone, showing overlapping blue and fin whale songs. \label{figurelabel}](images/bm_bp_song.png)
@@ -29,7 +29,7 @@ My interests in connecting environmental variability, animal behavior, and human
 
 
 * __Environmental justice in protecting Areas Beyond National Jurisdiction (ABNJ)__
-(Project collaborator; led by Millie Chapman)
+(Project co-lead with Millie Chapman)
   
 #\newline  
 
