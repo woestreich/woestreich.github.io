@@ -20,6 +20,9 @@ output: html_document
   \newline 
   
   <li>**Oestreich, WK**, Frawley, TH, Mansfield, EJ, Green, KM, Green, SJ, Naggea, J, Selgrath, JC, Swanson, SS, Urteaga, J, White, TD, and Crowder, LB, 2019: The impact of environmental change on small-scale fishing communities: Moving beyond adaptive capacity to community response in Cisneros-Montemayor, AM, Cheung, W, and Ota, Y (ed). *Predicting future oceans: Sustainability of social-ecological systems under climate change*. Elsevier. New York, NY. [PDF](Oestreich2019.pdf)</li>
+  \newline
+  
+  **Video seminar**: [Nippon Foundation Nereus Science Conference](https://www.youtube.com/watch?v=GvjR9IfKQz4)
   
   \newline 
   
