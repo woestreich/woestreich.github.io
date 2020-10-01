@@ -7,7 +7,7 @@ output: html_document
 
 <ol reversed>
 
-  <li>**Oestreich, WK**, Fahlbusch, JA, Cade, DE, Calambokidis, J, Margolina, T, Joseph, J, Friedlaender, AS, McKenna, M, Stimpert, AK, Southall, BL, Goldbogen, JA, and Ryan, JP, 2020 (*In Press*): Animal-borne metrics enable acoustic detection of blue whale migration. *Current Biology*. [PDF available soon]</li>
+  <li>**Oestreich, WK**, Fahlbusch, JA, Cade, DE, Calambokidis, J, Margolina, T, Joseph, J, Friedlaender, AS, McKenna, M, Stimpert, AK, Southall, BL, Goldbogen, JA, and Ryan, JP, 2020 (*In Press*): Animal-borne metrics enable acoustic detection of blue whale migration. *Current Biology*. [PDF](Oestreich2020b.pdf)</li>
   
   \newline 
   
