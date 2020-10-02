@@ -11,6 +11,10 @@ output: html_document
   
   \newline 
   
+  **Press:** [NPR All Things Considered](https://www.npr.org/2020/10/01/919228739/blue-whales-change-their-singing-schedule-during-southward-migration-research-sh) | [MBARI](https://www.mbari.org/blue-whale-songs-migration/) | [Stanford](https://news.stanford.edu/2020/10/01/pattern-whale-songs-predicts-migration/) | [Science News](https://www.sciencenews.org/article/before-migrating-blue-whales-switch-timing-songs) | [Popular Science](https://www.popsci.com/story/animals/blue-whale-song-migration/) | [UPI](https://www.upi.com/Science_News/2020/10/01/Blue-whale-singing-patterns-reverse-when-they-start-to-migrate/9861601578356/)
+  
+  \newline
+  
   <li>Haver, SM, Rand, Z, Hatch, LT, Lipski, D, Dziak, RP, Gedamke, J, Haxel, J, Heppell, SA, Jahncke, J, McKenna, MF, Mellinger, DK, **Oestreich, WK**, Roche, L, Ryan, JP, and Van Parijs, SM, 2020 : Seasonal trends and primary contributors to the low frequency soundscape of the Cordell Bank National Marine Sanctuary. *Journal of the Acoustical Society of America*. [PDF](Haver2020.pdf)</li>
    
   \newline  
