@@ -9,13 +9,13 @@ Some photographs of critters, waves, and habitats
 
 #\newline 
 
-<img src="images/heron.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A great blue heron (*Ardea herodias*) grabs a meal on the outskirts of a golf course in Central California. Do these dramatically altered landscapes benefit predators (like the heron, or white-tailed kites) that ambush from above?
+<img src="images/marmot.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A yellow-bellied marmot (*Marmota flaviventris*) out for a stroll in Sequoia National Park, CA.
 
 #\newline 
 
-<img src="images/marmot.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
-A yellow-bellied marmot (*Marmota flaviventris*) out for a stroll in Sequoia National Park, CA.
+<img src="images/heron.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+A great blue heron (*Ardea herodias*) grabs a meal on the outskirts of a golf course in Central California. Do these dramatically altered landscapes benefit predators (like the heron, or white-tailed kites) that ambush from above?
 
 #\newline 
 
