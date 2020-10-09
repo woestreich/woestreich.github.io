@@ -11,7 +11,7 @@ output: html_document
   
   \newline 
   
-  **Press:** [NPR All Things Considered](https://www.npr.org/2020/10/01/919228739/blue-whales-change-their-singing-schedule-during-southward-migration-research-sh) | [MBARI](https://www.mbari.org/blue-whale-songs-migration/) | [Stanford](https://news.stanford.edu/2020/10/01/pattern-whale-songs-predicts-migration/) | [Science News](https://www.sciencenews.org/article/before-migrating-blue-whales-switch-timing-songs) | [Popular Science](https://www.popsci.com/story/animals/blue-whale-song-migration/) | [UPI](https://www.upi.com/Science_News/2020/10/01/Blue-whale-singing-patterns-reverse-when-they-start-to-migrate/9861601578356/)
+  **Press:** [NPR All Things Considered](https://www.npr.org/2020/10/01/919228739/blue-whales-change-their-singing-schedule-during-southward-migration-research-sh) | [Scientific American](https://www.scientificamerican.com/podcast/episode/blue-whale-song-timing-reveals-time-to-go) | [MBARI](https://www.mbari.org/blue-whale-songs-migration/) | [Stanford](https://news.stanford.edu/2020/10/01/pattern-whale-songs-predicts-migration/) | [Science News](https://www.sciencenews.org/article/before-migrating-blue-whales-switch-timing-songs) | [Popular Science](https://www.popsci.com/story/animals/blue-whale-song-migration/) | [UPI](https://www.upi.com/Science_News/2020/10/01/Blue-whale-singing-patterns-reverse-when-they-start-to-migrate/9861601578356/)
   
   \newline
   
