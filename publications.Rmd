@@ -9,6 +9,10 @@ output: html_document
 
 <ol reversed>
 
+  <li>Green, KM, Selgrath, JS, Frawley, TH, **Oestreich, WK**, Mansfield, EJ, Urteaga, J, Swanson, SS, Santana, FS, Green, SJ, Naggea, J, and Crowder, LB, 2020: How adaptive capacity shapes the Adapt, React, Cope Response to climate impacts: insights from small-scale fisheries. (*Climatic Change (In Press)*). [PDF available soon]</li>
+
+  \newline 
+
   <li>**Oestreich, WK**, Fahlbusch, JA, Cade, DE, Calambokidis, J, Margolina, T, Joseph, J, Friedlaender, AS, McKenna, MF, Stimpert, AK, Southall, BL, Goldbogen, JA, and Ryan, JP, 2020: Animal-borne metrics enable acoustic detection of blue whale migration. *Current Biology*. [PDF](Oestreich2020b.pdf)</li>
   
   \newline 
@@ -57,10 +61,6 @@ Image: *Oceanites oceanicus* dances across a bay along the Western Antarctic Pen
 **In review, submission, or preparation:**
 
   \newline 
-  
-Green, KM, et al. including **Oestreich, WK**: How adaptive capacity shapes the Adapt, React, Cope Response to climate impacts: insights from small-scale fisheries. (*In revision at Climatic Change*).
-
-  \newline 
 
 Cade, DE, et al. including **Oestreich, WK**: Predator-scale spatial analysis of intra-patch prey distribution reveals energetic drivers of rorqual whale super-group formation (*In revision at Functional Ecology*).
 
@@ -70,10 +70,10 @@ Cade, DE, et al. including **Oestreich, WK**: Group exploitation of extensive, e
 
   \newline 
   
-Kitzes, J et al. including **Oestreich, WK**: Expanding the National Ecological Observatory Network (NEON) biodiversity surveys with new instrumentation and machine learning models. (*In submission at Ecography*).
+Kitzes, J et al. including **Oestreich, WK**: Expanding the National Ecological Observatory Network (NEON) biodiversity surveys with new instrumentation and machine learning models. (*In review at Ecography*).
 
   \newline 
   
-Chapman, MS\*, **Oestreich, WK**\*, et al.: Scientific recommendations for high seas governance must promote equity. (*In prep*).
+Chapman, MS\*, **Oestreich, WK**\*, et al.: Promoting equity in scientific recommendations for high seas governance. (*In prep*).
 
   
