@@ -9,6 +9,10 @@ output: html_document
 
 <ol reversed>
 
+  <li>Cade, DE, et al. including **Oestreich, WK**: Predator-scale spatial analysis of intra-patch prey distribution reveals energetic drivers of rorqual whale super-group formation. *Functional Ecology (In Press)*.  [PDF available soon]</li>
+
+  \newline 
+
   <li>Green, KM, Selgrath, JS, Frawley, TH, **Oestreich, WK**, Mansfield, EJ, Urteaga, J, Swanson, SS, Santana, FS, Green, SJ, Naggea, J, and Crowder, LB, 2020: How adaptive capacity shapes the Adapt, React, Cope Response to climate impacts: insights from small-scale fisheries. *Climatic Change (In Press)*. [PDF available soon]</li>
 
   \newline 
@@ -59,10 +63,6 @@ Image: *Oceanites oceanicus* dances across a bay along the Western Antarctic Pen
   \newline
 
 **In review, submission, or preparation:**
-
-  \newline 
-
-Cade, DE, et al. including **Oestreich, WK**: Predator-scale spatial analysis of intra-patch prey distribution reveals energetic drivers of rorqual whale super-group formation (*In review*).
 
   \newline 
   
