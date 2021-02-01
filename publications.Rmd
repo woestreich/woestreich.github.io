@@ -9,11 +9,11 @@ output: html_document
 
 <ol reversed>
 
-  <li>Cade, DE, et al. including **Oestreich, WK**: Predator-scale spatial analysis of intra-patch prey distribution reveals energetic drivers of rorqual whale super-group formation. *Functional Ecology (In Press)*.  [PDF available soon]</li>
+  <li>Cade, DE, Seakamela, SM, Findlay, KP, Fukunaga, J, Kahane-Rapport, SR, Warren, JD, Calambokidis, J, Fahlbusch, JA, Friedlaender, AS, Hazen, EL, Kotze, D, McCue, S, Meyer, M, **Oestreich, WK**, Oudejans, MG, Wilke, C, and Goldbogen, JA, 2021: Predator-scale spatial analysis of intra-patch prey distribution reveals energetic drivers of rorqual whale super-group formation. *Functional Ecology*.  [PDF](Cade2021.pdf)</li>
 
   \newline 
 
-  <li>Green, KM, Selgrath, JS, Frawley, TH, **Oestreich, WK**, Mansfield, EJ, Urteaga, J, Swanson, SS, Santana, FS, Green, SJ, Naggea, J, and Crowder, LB, 2020: How adaptive capacity shapes the Adapt, React, Cope Response to climate impacts: insights from small-scale fisheries. *Climatic Change (In Press)*. [PDF available soon]</li>
+  <li>Green, KM, Selgrath, JS, Frawley, TH, **Oestreich, WK**, Mansfield, EJ, Urteaga, J, Swanson, SS, Santana, FS, Green, SJ, Naggea, J, and Crowder, LB, 2021: How adaptive capacity shapes the Adapt, React, Cope Response to climate impacts: insights from small-scale fisheries. *Climatic Change*. [PDF](Green2021.pdf)</li>
 
   \newline 
 
