@@ -25,7 +25,7 @@ output: html_document
   
   \newline
   
-  <li>Haver, SM, Rand, Z, Hatch, LT, Lipski, D, Dziak, RP, Gedamke, J, Haxel, J, Heppell, SA, Jahncke, J, McKenna, MF, Mellinger, DK, **Oestreich, WK**, Roche, L, Ryan, JP, and Van Parijs, SM, 2020 : Seasonal trends and primary contributors to the low frequency soundscape of the Cordell Bank National Marine Sanctuary. *Journal of the Acoustical Society of America*. [PDF](Haver2020.pdf)</li>
+  <li>Haver, SM, Rand, Z, Hatch, LT, Lipski, D, Dziak, RP, Gedamke, J, Haxel, J, Heppell, SA, Jahncke, J, McKenna, MF, Mellinger, DK, **Oestreich, WK**, Roche, L, Ryan, JP, and Van Parijs, SM, 2020: Seasonal trends and primary contributors to the low frequency soundscape of the Cordell Bank National Marine Sanctuary. *Journal of the Acoustical Society of America*. [PDF](Haver2020.pdf)</li>
    
   \newline  
   
