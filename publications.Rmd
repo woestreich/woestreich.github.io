@@ -5,7 +5,31 @@ output: html_document
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-\* denotes co-first authors
+  \newline 
+
+**In review (\* denotes co-first authors):**
+
+  \newline 
+  
+Chapman, MS\*, **Oestreich, WK**\*, et al.: Promoting equity in scientific recommendations for high seas governance. (*Submitted*).
+
+  \newline 
+  
+Cade, DE, et al. including **Oestreich, WK**: Group exploitation of extensive, ephemeral, environmentally-controlled prey patches (*In review*).
+
+  \newline 
+  
+Kitzes, J et al. including **Oestreich, WK**: Expanding the National Ecological Observatory Network (NEON) biodiversity surveys with new instrumentation and machine learning models. (*In review*).
+
+  \newline 
+
+<img src="images/wilsons3.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+
+Image: *Oceanites oceanicus* dances across a bay along the Western Antarctic Peninsula.
+
+  \newline
+
+**Published:**  
 
 <ol reversed>
 
@@ -56,24 +80,7 @@ output: html_document
 
   \newline 
 
-<img src="images/wilsons3.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 
-Image: *Oceanites oceanicus* dances across a bay along the Western Antarctic Peninsula.
 
-  \newline
-
-**In review, submission, or preparation:**
-
-  \newline 
-  
-Cade, DE, et al. including **Oestreich, WK**: Group exploitation of extensive, ephemeral, environmentally-controlled prey patches (*In review*).
-
-  \newline 
-  
-Kitzes, J et al. including **Oestreich, WK**: Expanding the National Ecological Observatory Network (NEON) biodiversity surveys with new instrumentation and machine learning models. (*In review*).
-
-  \newline 
-  
-Chapman, MS\*, **Oestreich, WK**\*, et al.: Promoting equity in scientific recommendations for high seas governance. (*Submitted*).
 
   
