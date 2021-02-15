@@ -11,7 +11,7 @@ output: html_document
 
   \newline 
   
-Chapman, MS\*, **Oestreich, WK**\*, et al.: Promoting equity in scientific recommendations for high seas governance. (*Submitted*).
+Chapman, MS\*, **Oestreich, WK**\*, et al.: Promoting equity in scientific recommendations for high seas governance. (*Submitted*). [Preprint](https://ecoevorxiv.org/jhbuz/)
 
   \newline 
   
